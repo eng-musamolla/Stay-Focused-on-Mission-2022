@@ -1,0 +1,417 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+
+.clr{
+    clear: both;
+}
+
+/* Batton Start */
+a{
+    font-size:medium;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #ff5959;
+    padding: 15px 40px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: .4s;
+}
+a:hover{
+    color: white;
+    background-color: #ffad5a;
+}
+/* Batton End */
+
+/* ==================================
+        Stay fcuse Part Start
+====================================*/
+
+#Stay_focused{
+    margin-bottom: 70px;
+}
+
+#Stay_focused .left_part{
+    width: 60%;
+    float: left;
+    padding: 20px 0;
+    margin-top: 110px;
+}
+
+#Stay_focused .left_part .head_title{
+    height: 150px;
+}
+#Stay_focused .left_part .head_title img{
+    float: left;
+    height: 80%;
+    margin: 12px 12px 0 0;
+    width: 5px;
+}
+
+
+#Stay_focused .left_part .head_title h2{
+    font-size: 58px;
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+}
+#Stay_focused .left_part .head_title h1{
+    font-size: 70px;
+    color: #ffad5a;
+}
+
+#Stay_focused .left_part h4{
+    font-size: 15px;
+    font-family: 'Secular One', sans-serif;
+    font-weight: 400;
+    padding: 10px 0 30px;
+    margin-right: 30%;
+    color: #4b4b4b;
+
+}
+
+
+#Stay_focused .left_part p{
+    margin-top: 40px;
+    color: #4b4b4b;
+}
+#Stay_focused .right_part{
+    width: 40%;
+    float: left;
+}
+
+#Stay_focused .right_part img{
+    height:500px;
+    
+}
+
+/* ==================================
+        Stay fcuse Part End
+====================================*/
+
+/* ==================================
+            Mission Part Start
+====================================*/
+#Mission_part h2{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    color: #13103a;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#Mission_part h2 span{
+    color: #ffad5a;
+}
+
+#Mission_part .Mission {
+    width: 25%;
+    border-radius: 25px;
+    background-color: #eef6f7;
+    float:left;
+    padding: 40px 33px;
+}
+#Mission_part .Vission {
+    width: 25%;
+    border-radius: 25px;
+    background-color: #ffefef;
+    margin:0 36px;
+    float:left;
+    padding: 40px 33px;
+}
+
+#Mission_part .Goals {
+    width: 25%;
+    border-radius: 25px;
+    background-color: #fff4d6;
+    float:left;
+    padding: 40px 33px;
+}
+
+#Mission_part img{
+    height: 150px;
+}
+
+#Mission_part h4{
+    font-family: 'Secular One', sans-serif;
+    color: black;
+    font-size: 26px;
+    font-weight: 700;
+    padding: 15px 0;
+}
+
+#Mission_part p{
+    font-family: 'Secular One', sans-serif;
+    color: #4b4b4b;
+}
+/* ==================================
+            Mission Part End
+====================================*/
+
+/* ==================================
+   Develop Without Limits Part Start
+====================================*/
+
+#Develop_without_limits_part{
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 1% 24%;
+    background-size: 215px;
+    margin: 100px 0;
+}
+
+#Develop_without_limits_part .image_part{
+    float: left;
+    width: 40%;
+}
+
+#Develop_without_limits_part .image_part .image_2{
+    width: 80%;
+    
+}
+
+#Develop_without_limits_part .text_part{
+    float: left;
+    width: 60%;
+    padding-top: 40px;
+}
+
+#Develop_without_limits_part .text_part h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+
+}
+
+#Develop_without_limits_part .text_part p{
+    font-family: 'Secular One', sans-serif;
+    color: #4b4b4b;
+    margin-top: 25px;
+    margin-bottom: 35px;
+
+}
+
+/* ==================================
+   Develop Without Limits Part End
+====================================*/
+
+/* ==================================
+        Know our Part Start
+====================================*/
+
+#Know_our_part{
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 99% 90%;
+    background-size: 215px;
+    margin: 100px 0;
+    padding-bottom: 100px;
+}
+
+#Know_our_part .image_part{
+    float: left;
+    width: 40%;
+}
+
+#Know_our_part .image_part .image_2{
+    width: 80%;
+    float: right;
+        
+}
+
+#Know_our_part .text_part{
+    float: left;
+    width: 60%;
+    padding-top: 40px;
+}
+
+#Know_our_part .text_part h1{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    color: #333333;
+
+}
+
+#Know_our_part .text_part p{
+    font-family: 'Secular One', sans-serif;
+    color: #4b4b4b;
+    margin-top: 25px;
+    margin-bottom: 35px;
+
+}
+
+/* ==================================
+        Know Our Part End
+====================================*/
+
+/* ==================================
+        Contact Us Start
+====================================*/
+#Contact_Us h2{
+    font-size: 60px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+    color: #13103a;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#Contact_Us h2 span{
+    color: #ffad5a;
+}
+
+#Contact_Us .contact_info{
+    float: left;
+    width: 35%;
+}
+
+#Contact_Us .contact_form{
+    float: left;
+    width: 65%;
+
+}
+
+.contact_form .row{
+    padding: 30px 0;
+}
+.contact_form .Name{
+    width: 26%;
+    float: left;
+}
+.contact_form .Email{
+    width: 26%;
+    float: left;
+    margin: 0 64px;
+}
+.contact_form .Subject{
+    width: 26%;
+    float: left;
+}
+.contact_form .Message{
+    width: 100%;
+    height: 150px;
+    border: 1px solid #b3d9db;
+    font-size: 16px;
+    font-weight: 50;
+    color: #585858;
+    transition: all 0.3s linear;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    float: left;
+}
+
+.contact_form {
+    margin-bottom: 40px;
+}
+
+
+.contact_info .title {
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size: 24px;
+    color: #1d3557;
+    -webkit-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    position: relative;
+    padding-bottom: 2px;
+}
+
+.single-contact-info .info-title {
+    font-family: "Maven Pro", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #585858;
+    margin-bottom: 13px;
+}
+#Contact_Us .contact_info .contact-info-wrapper h5 {
+    font-size: 13px;
+    font-weight: 700;
+    color: #12b2fc;
+    margin-bottom: 14.5px;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 10px;
+}
+
+#Contact_Us{
+    background-image: url(../images/shapes/shape-6.png);
+    background-position: 10% 20%;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+.contact_info .contact-info-wrapper {
+    background-color: #ebf7f8;
+    border-radius: 5px;
+    padding: 31px;
+    margin-right: 40px;
+}
+
+.contact_form .contact-title {
+    margin-bottom: 0px;
+    font-weight: 600;
+    font-size: 30px;
+    color: #1d3557;
+}
+
+.single-form input:not([type="checkbox"]):not([type="radio"]), .single-form textarea {
+    width: 100%;
+    height: 40px;
+    padding: 0 15px;
+    border: 1px solid #b3d9db;
+    font-size: 16px;
+    font-weight: 50;
+    color: #585858;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+    border-radius: 5px;
+}
+
+/* ==================================
+        Contact Us End
+====================================*/
+
+/* ==================================
+        Footer Part Start
+====================================*/
+footer{
+    background-color: #0b0d17;
+    padding: 30px 0;
+}
+
+footer h1{
+    font-size: 35px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+footer h1 span{
+    color: #ff5959;
+}
+
+footer p{
+    text-align: center;
+    color: #d9dbe1;
+}
+    
+footer h1 span{
+    color: #ff5959;
+}
+
+/* ==================================
+        Footer Part End
+====================================*/
+
+
